@@ -1,20 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,windows,data,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,data,venv
 
-### Data ###
-*.csv
-*.dat
-*.efx
-*.gbr
-*.key
-*.pps
-*.ppt
-*.pptx
-*.sdf
-*.tax2010
-*.vcf
-*.xml
-
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
